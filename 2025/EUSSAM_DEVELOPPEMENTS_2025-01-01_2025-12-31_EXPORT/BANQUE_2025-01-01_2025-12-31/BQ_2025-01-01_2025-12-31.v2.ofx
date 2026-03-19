@@ -1,0 +1,1484 @@
+<?xml version="1.0"?>
+<?OFX OFXHEADER="200" VERSION="211" SECURITY="NONE" OLDFILEUID="NONE" NEWFILEUID="NONE"?>
+<OFX>
+  <SIGNONMSGSRSV1>
+    <SONRS>
+      <DTSERVER>20260319092115</DTSERVER>
+      <LANGUAGE>ENG</LANGUAGE>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+    </SONRS>
+  </SIGNONMSGSRSV1>
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <STMTRS>
+        <AVAILBAL>
+          <BALAMT>10327.91</BALAMT>
+          <DTASOF>20251222051747</DTASOF>
+        </AVAILBAL>
+        <BANKACCTFROM>
+          <ACCTID>00008805342</ACCTID>
+          <BANKID>17418</BANKID>
+          <BRANCHID>00001</BRANCHID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+          <DTEND>20251231235959</DTEND>
+          <DTSTART>20250101000000</DTSTART>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250102</DTPOSTED>
+            <DTUSER>20250102</DTUSER>
+            <FITID>5d649235-d0e9-46e7-8345-5df44281b72b</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-12.09</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250103</DTPOSTED>
+            <DTUSER>20250103</DTUSER>
+            <FITID>2625b3b9-519c-4f99-be97-0db39618c126</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-12.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250110</DTPOSTED>
+            <DTUSER>20250110</DTUSER>
+            <FITID>dc7f3d31-bca6-4e39-b1fc-e1a750a53e08</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1345007009</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1345007009</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250113</DTPOSTED>
+            <DTUSER>20250113</DTUSER>
+            <FITID>c343c307-c501-4ef0-bfaf-00b0dfa0a9ae</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>78.00</TRNAMT>
+            <TRNTYPE>CREDIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250113</DTPOSTED>
+            <DTUSER>20250113</DTUSER>
+            <FITID>1f77517a-9372-49ab-ab58-2e7b304af48b</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-78.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250113</DTPOSTED>
+            <DTUSER>20250113</DTUSER>
+            <FITID>eef666ca-553a-4230-ab0b-37ec85bcebef</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-78.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250113</DTPOSTED>
+            <DTUSER>20250113</DTUSER>
+            <FITID>8b367be5-bad0-41c9-b00b-948a9202301d</FITID>
+            <MEMO>Orange SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2297667148)</MEMO>
+            <NAME>Orange SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2297667148)</NAME>
+            <TRNAMT>-25.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250113</DTPOSTED>
+            <DTUSER>20250113</DTUSER>
+            <FITID>b2e053ab-e514-42f7-ad07-8457e5d8b4be</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-12.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250119</DTPOSTED>
+            <DTUSER>20250119</DTUSER>
+            <FITID>1ca435c3-c3f1-4720-855c-0cd9e5d3993e</FITID>
+            <MEMO>Shine subscription - January 19th</MEMO>
+            <NAME>Shine subscription - January 19th</NAME>
+            <TRNAMT>-9.48</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250120</DTPOSTED>
+            <DTUSER>20250120</DTUSER>
+            <FITID>98c453d3-56ee-4260-932a-1d6a0fad4374</FITID>
+            <MEMO>AUTOROUTES DU SUD DE LA FRANCE - KL001825050040649906 122024</MEMO>
+            <NAME>AUTOROUTES DU SUD DE LA FRANCE - KL001825050040649906 122024</NAME>
+            <TRNAMT>-2.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250121</DTPOSTED>
+            <DTUSER>20250121</DTUSER>
+            <FITID>fd74818e-3dfe-4bdc-b656-6ccd43a91d88</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250129</DTPOSTED>
+            <DTUSER>20250129</DTUSER>
+            <FITID>8ee92b42-eb7d-4315-882b-737b86e95499</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-80.36</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250203</DTPOSTED>
+            <DTUSER>20250203</DTUSER>
+            <FITID>77d216ce-42ef-4115-9e6f-19c006dc8942</FITID>
+            <MEMO>SQSP* INV167926915</MEMO>
+            <NAME>SQSP* INV167926915</NAME>
+            <TRNAMT>-14.40</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250203</DTPOSTED>
+            <DTUSER>20250203</DTUSER>
+            <FITID>81567b53-b72c-4d70-9c16-c6f00e4e2b84</FITID>
+            <MEMO>SQSP* INV167926653</MEMO>
+            <NAME>SQSP* INV167926653</NAME>
+            <TRNAMT>-14.40</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250203</DTPOSTED>
+            <DTUSER>20250203</DTUSER>
+            <FITID>6866e30e-e57d-4c21-9eb6-394759dbe55c</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-13.12</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250204</DTPOSTED>
+            <DTUSER>20250204</DTUSER>
+            <FITID>7122beea-f08d-4e19-ab8b-4d7c5f17d039</FITID>
+            <MEMO>URSSAF PACA - UR 937000002002661353          794487231000030225</MEMO>
+            <NAME>URSSAF PACA - UR 937000002002661353          794487231000030225</NAME>
+            <TRNAMT>-938.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250204</DTPOSTED>
+            <DTUSER>20250204</DTUSER>
+            <FITID>ca8c0d6f-5249-4bb5-b2fe-867a28543e07</FITID>
+            <MEMO>LA POSTE 137300</MEMO>
+            <NAME>LA POSTE 137300</NAME>
+            <TRNAMT>-148.68</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250206</DTPOSTED>
+            <DTUSER>20250206</DTUSER>
+            <FITID>25be3118-121d-42f8-b194-fb4798a64cda</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1352752501</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1352752501</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250206</DTPOSTED>
+            <DTUSER>20250206</DTUSER>
+            <FITID>343627f2-5821-4fbd-b123-e3c66948dba5</FITID>
+            <MEMO>URSSAF PACA - UR 937000002002661353    1ETR25794487231000050225</MEMO>
+            <NAME>URSSAF PACA - UR 937000002002661353    1ETR25794487231000050225</NAME>
+            <TRNAMT>-441.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250208</DTPOSTED>
+            <DTUSER>20250208</DTUSER>
+            <FITID>f6932768-4ede-41b9-92cf-712c92c59928</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-12.92</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250208</DTPOSTED>
+            <DTUSER>20250208</DTUSER>
+            <FITID>a9ce3cd7-dcb2-41bf-8751-248d8ba20890</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-12.90</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250210</DTPOSTED>
+            <DTUSER>20250210</DTUSER>
+            <FITID>c8b42604-4879-457b-aaae-193100afb64f</FITID>
+            <MEMO>Orange SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2304852715)</MEMO>
+            <NAME>Orange SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2304852715)</NAME>
+            <TRNAMT>-25.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250211</DTPOSTED>
+            <DTUSER>20250211</DTUSER>
+            <FITID>ffb14296-6068-433d-ab15-f2a03833fe8f</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-70.90</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250212</DTPOSTED>
+            <DTUSER>20250212</DTUSER>
+            <FITID>46318fb7-0d84-4cbe-a367-f86297ed36f9</FITID>
+            <MEMO>KLM FRANCE</MEMO>
+            <NAME>KLM FRANCE</NAME>
+            <TRNAMT>-278.51</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250213</DTPOSTED>
+            <DTUSER>20250213</DTUSER>
+            <FITID>2d0d36a2-5885-4333-86aa-7bac220b7429</FITID>
+            <MEMO>UBER* TRIP</MEMO>
+            <NAME>UBER* TRIP</NAME>
+            <TRNAMT>-43.16</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250215</DTPOSTED>
+            <DTUSER>20250215</DTUSER>
+            <FITID>16a26f93-0f05-43ab-8ceb-2881c81fb57d</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-9.61</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250219</DTPOSTED>
+            <DTUSER>20250219</DTUSER>
+            <FITID>8d051c03-0dea-4c14-b865-6eda657f8183</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-28.82</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250219</DTPOSTED>
+            <DTUSER>20250219</DTUSER>
+            <FITID>a1529589-d72c-4fe6-8513-ff6cb6053c3f</FITID>
+            <MEMO>Shine subscription - February 19th</MEMO>
+            <NAME>Shine subscription - February 19th</NAME>
+            <TRNAMT>-9.48</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250220</DTPOSTED>
+            <DTUSER>20250220</DTUSER>
+            <FITID>fe4d7d85-5419-441d-af96-3c3a72beeb34</FITID>
+            <MEMO>Autoroutes du Sud de la France - LA001764240040649906 012025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LA001764240040649906 012025</NAME>
+            <TRNAMT>-26.60</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250221</DTPOSTED>
+            <DTUSER>20250221</DTUSER>
+            <FITID>3cb2be76-95db-4986-9361-756c60974c6a</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250224</DTPOSTED>
+            <DTUSER>20250224</DTUSER>
+            <FITID>3d76d8f3-98fb-4b56-ab09-ed61dc1be6c1</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-9.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250224</DTPOSTED>
+            <DTUSER>20250224</DTUSER>
+            <FITID>f82dcb4a-f671-469c-81ae-19d0970a357a</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-12.96</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250303</DTPOSTED>
+            <DTUSER>20250303</DTUSER>
+            <FITID>66fd46da-f467-4989-9b32-7a6de372d384</FITID>
+            <MEMO>OVH SAS</MEMO>
+            <NAME>OVH SAS</NAME>
+            <TRNAMT>-53.40</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250303</DTPOSTED>
+            <DTUSER>20250303</DTUSER>
+            <FITID>a7404cf5-b5bd-4bd3-81c1-54005838fac9</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-11.89</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250305</DTPOSTED>
+            <DTUSER>20250305</DTUSER>
+            <FITID>137af419-9d1b-417d-a5b4-2e2a0babfb7c</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-109.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250306</DTPOSTED>
+            <DTUSER>20250306</DTUSER>
+            <FITID>9dbf7809-3dcc-443f-8787-d11922f73f84</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1360335682</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1360335682</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250308</DTPOSTED>
+            <DTUSER>20250308</DTUSER>
+            <FITID>84f44b9f-4e0d-4461-bb9e-79a45c959bae</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-13.90</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250312</DTPOSTED>
+            <DTUSER>20250312</DTUSER>
+            <FITID>b0defcdb-4202-4c3d-ba35-7c94aa5b9862</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-12.53</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250313</DTPOSTED>
+            <DTUSER>20250313</DTUSER>
+            <FITID>487b34fa-d625-4f05-b883-3bb66181644e</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-29.12</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250314</DTPOSTED>
+            <DTUSER>20250314</DTUSER>
+            <FITID>235034f3-7b03-4476-b800-9a152d2ea8df</FITID>
+            <MEMO>Orange SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2312013106)</MEMO>
+            <NAME>Orange SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2312013106)</NAME>
+            <TRNAMT>-39.04</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250317</DTPOSTED>
+            <DTUSER>20250317</DTUSER>
+            <FITID>7b1af3ee-bd4f-4bc8-bf1a-389949fd8402</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-72.36</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250318</DTPOSTED>
+            <DTUSER>20250318</DTUSER>
+            <FITID>39ae2ef6-b016-4fd4-b90a-a7f105a4ffca</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-55.20</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250319</DTPOSTED>
+            <DTUSER>20250319</DTUSER>
+            <FITID>820ff2b6-7aeb-4754-b9aa-8e5262ee9719</FITID>
+            <MEMO>Shine subscription - March 19th</MEMO>
+            <NAME>Shine subscription - March 19th</NAME>
+            <TRNAMT>-9.48</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250320</DTPOSTED>
+            <DTUSER>20250320</DTUSER>
+            <FITID>40b4fe42-dd95-453a-b15f-d734d54b8d26</FITID>
+            <MEMO>Autoroutes du Sud de la France - LB001752370040649906 022025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LB001752370040649906 022025</NAME>
+            <TRNAMT>-4.80</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250321</DTPOSTED>
+            <DTUSER>20250321</DTUSER>
+            <FITID>56bee4c9-8d53-4055-9954-2968c1ab6e91</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250324</DTPOSTED>
+            <DTUSER>20250324</DTUSER>
+            <FITID>a3f1dba3-4d89-4702-a02e-ac582657d3ba</FITID>
+            <MEMO>UBER TRIP* TRIP</MEMO>
+            <NAME>UBER TRIP* TRIP</NAME>
+            <TRNAMT>-10.27</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250331</DTPOSTED>
+            <DTUSER>20250331</DTUSER>
+            <FITID>a8e7d3a1-6d2d-4dc3-bbaa-6bec063ee552</FITID>
+            <MEMO>UBER   *EATS</MEMO>
+            <NAME>UBER   *EATS</NAME>
+            <TRNAMT>-33.85</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250403</DTPOSTED>
+            <DTUSER>20250403</DTUSER>
+            <FITID>503c4e8c-12e1-404d-a76b-2f09bf0fa172</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-12.55</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250404</DTPOSTED>
+            <DTUSER>20250404</DTUSER>
+            <FITID>835f71b1-06b1-4ce5-8e10-b726674e2cf7</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1367919057</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1367919057</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250404</DTPOSTED>
+            <DTUSER>20250404</DTUSER>
+            <FITID>71816c5b-b3ea-4ded-8c03-d77fc832af79</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-12.38</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250405</DTPOSTED>
+            <DTUSER>20250405</DTUSER>
+            <FITID>06e8e802-dc8c-4121-a4b3-971424c87410</FITID>
+            <MEMO>UBER *TRIP HELP.UBER.C</MEMO>
+            <NAME>UBER *TRIP HELP.UBER.C</NAME>
+            <TRNAMT>-37.91</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250407</DTPOSTED>
+            <DTUSER>20250407</DTUSER>
+            <FITID>aabe711b-55b7-4d3d-8568-5cca0ae0e5f1</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-10.65</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250407</DTPOSTED>
+            <DTUSER>20250407</DTUSER>
+            <FITID>e63b3126-29e4-4b44-9648-be828349eb46</FITID>
+            <MEMO>Paiement hors zone euro</MEMO>
+            <NAME>Paiement hors zone euro</NAME>
+            <TRNAMT>-1.44</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250410</DTPOSTED>
+            <DTUSER>20250410</DTUSER>
+            <FITID>793fb73e-dcac-4b78-956f-05c2d07356cc</FITID>
+            <MEMO>Orange SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2319161574)</MEMO>
+            <NAME>Orange SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2319161574)</NAME>
+            <TRNAMT>-25.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250411</DTPOSTED>
+            <DTUSER>20250411</DTUSER>
+            <FITID>e3f850f7-86d8-443b-8ed9-21b9c5480d46</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-50.92</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250413</DTPOSTED>
+            <DTUSER>20250413</DTUSER>
+            <FITID>36d0868b-3c6e-4ecd-9c3a-1de4a230e046</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-13.31</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250413</DTPOSTED>
+            <DTUSER>20250413</DTUSER>
+            <FITID>2a1d6b48-a205-4856-88da-443f5147aede</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-12.54</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250416</DTPOSTED>
+            <DTUSER>20250416</DTUSER>
+            <FITID>a9145850-e18e-461a-bc42-6eaca2b6598d</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-13.31</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250419</DTPOSTED>
+            <DTUSER>20250419</DTUSER>
+            <FITID>6d3117dd-7eba-41a0-b8e9-e24a30c3cb00</FITID>
+            <MEMO>Shine subscription - April 19th</MEMO>
+            <NAME>Shine subscription - April 19th</NAME>
+            <TRNAMT>-9.48</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250421</DTPOSTED>
+            <DTUSER>20250421</DTUSER>
+            <FITID>e7afec3d-827b-4867-944d-f799777b00e2</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250421</DTPOSTED>
+            <DTUSER>20250421</DTUSER>
+            <FITID>9a9fdc2f-b3f7-4056-86b9-381a33f204a3</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-42.12</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250422</DTPOSTED>
+            <DTUSER>20250422</DTUSER>
+            <FITID>8773d2c7-461e-42f0-9bfb-7ac38324c736</FITID>
+            <MEMO>Autoroutes du Sud de la France - LC001761780040649906 032025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LC001761780040649906 032025</NAME>
+            <TRNAMT>-22.10</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250423</DTPOSTED>
+            <DTUSER>20250423</DTUSER>
+            <FITID>24c58aa7-c996-4aaa-9560-8ed688fb445d</FITID>
+            <MEMO>REMB. DGFiP - 502710312 - Creditor Name SEPA : EURL EUSSAM DEVELOPPEMENTS - De: SIE MARSEILLE BORDE</MEMO>
+            <NAME>REMB. DGFiP - 502710312 - Creditor Name SEPA : EURL EUSSAM DEVELOPPEMENTS - De: SIE MARSEILLE BORDE</NAME>
+            <TRNAMT>5185.00</TRNAMT>
+            <TRNTYPE>CREDIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250425</DTPOSTED>
+            <DTUSER>20250425</DTUSER>
+            <FITID>0aa3b294-d3f7-40ca-82ee-b10e07e605e6</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-65.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250425</DTPOSTED>
+            <DTUSER>20250425</DTUSER>
+            <FITID>a6494f11-3c62-4c33-a74a-361231c7c3de</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-62.40</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250425</DTPOSTED>
+            <DTUSER>20250425</DTUSER>
+            <FITID>84172acc-c730-4fa4-b9c9-0b637df1c5fd</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-68.90</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250501</DTPOSTED>
+            <DTUSER>20250501</DTUSER>
+            <FITID>7d578c77-0b65-4c0e-a026-0a327a8a1d34</FITID>
+            <MEMO>Card order</MEMO>
+            <NAME>Card order</NAME>
+            <TRNAMT>-6.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250502</DTPOSTED>
+            <DTUSER>20250502</DTUSER>
+            <FITID>cd76d843-ba94-44c1-bfd4-832f0e0d5dea</FITID>
+            <MEMO>OVH SAS</MEMO>
+            <NAME>OVH SAS</NAME>
+            <TRNAMT>-16.19</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250502</DTPOSTED>
+            <DTUSER>20250502</DTUSER>
+            <FITID>7c5a0914-a05d-46f8-bfb3-2ba249b0afac</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-33.40</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250503</DTPOSTED>
+            <DTUSER>20250503</DTUSER>
+            <FITID>34e8860a-ed39-4ae8-a364-69b1d9a7edd8</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-11.73</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250507</DTPOSTED>
+            <DTUSER>20250507</DTUSER>
+            <FITID>d370ef89-e52f-4922-a23d-c2369d000398</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1375452129</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1375452129</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250512</DTPOSTED>
+            <DTUSER>20250512</DTUSER>
+            <FITID>3165760b-cd15-42b5-8102-67f326ec9f4e</FITID>
+            <MEMO>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2326312231)</MEMO>
+            <NAME>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2326312231)</NAME>
+            <TRNAMT>-25.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250519</DTPOSTED>
+            <DTUSER>20250519</DTUSER>
+            <FITID>a5b9a8b4-e18f-4437-9dd3-c860e04a3313</FITID>
+            <MEMO>Shine subscription - May 19th</MEMO>
+            <NAME>Shine subscription - May 19th</NAME>
+            <TRNAMT>-9.48</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250521</DTPOSTED>
+            <DTUSER>20250521</DTUSER>
+            <FITID>94e1e147-4e86-4a75-94b1-33f633769ada</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250526</DTPOSTED>
+            <DTUSER>20250526</DTUSER>
+            <FITID>657a6a48-5e2d-4f19-8027-e691f3980a02</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-67.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250602</DTPOSTED>
+            <DTUSER>20250602</DTUSER>
+            <FITID>57913297-d00b-4bc0-812e-1bce2489cf62</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-12.04</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250604</DTPOSTED>
+            <DTUSER>20250604</DTUSER>
+            <FITID>0409bcb0-ddbe-45f1-8beb-98572a8231b1</FITID>
+            <MEMO>REMBT URSSAF 937000002002661353 - Creditor Name SEPA : EUSSAM DEVELOPPEMEN - De: URSSAF PACA</MEMO>
+            <NAME>REMBT URSSAF 937000002002661353 - Creditor Name SEPA : EUSSAM DEVELOPPEMEN - De: URSSAF PACA</NAME>
+            <TRNAMT>163.00</TRNAMT>
+            <TRNTYPE>CREDIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250605</DTPOSTED>
+            <DTUSER>20250605</DTUSER>
+            <FITID>66e8bcb9-e806-457b-a735-5c9e99e57e48</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1383064074</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1383064074</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250610</DTPOSTED>
+            <DTUSER>20250610</DTUSER>
+            <FITID>75d95cb7-b264-422b-9faa-d66cdb20575f</FITID>
+            <MEMO>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2333475250)</MEMO>
+            <NAME>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2333475250)</NAME>
+            <TRNAMT>-26.54</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250619</DTPOSTED>
+            <DTUSER>20250619</DTUSER>
+            <FITID>4189f53c-6723-4325-bb2b-778be14b46c9</FITID>
+            <MEMO>Shine subscription - June 19th</MEMO>
+            <NAME>Shine subscription - June 19th</NAME>
+            <TRNAMT>-9.48</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250620</DTPOSTED>
+            <DTUSER>20250620</DTUSER>
+            <FITID>1071a797-90ed-47e2-a3d4-b534fc37428e</FITID>
+            <MEMO>Autoroutes du Sud de la France - LE001818580040649906 052025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LE001818580040649906 052025</NAME>
+            <TRNAMT>-12.90</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250621</DTPOSTED>
+            <DTUSER>20250621</DTUSER>
+            <FITID>1a903e03-05ed-4b88-9502-d3da8c5bad80</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250622</DTPOSTED>
+            <DTUSER>20250622</DTUSER>
+            <FITID>42a5798b-e13c-492c-88a8-e8c7ffcc0960</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-39.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250622</DTPOSTED>
+            <DTUSER>20250622</DTUSER>
+            <FITID>59b7a6d2-d427-4061-b359-d3de636c005d</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-61.16</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250702</DTPOSTED>
+            <DTUSER>20250702</DTUSER>
+            <FITID>2105a090-5552-415b-bc41-c63d2b432aa6</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-12.28</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250704</DTPOSTED>
+            <DTUSER>20250704</DTUSER>
+            <FITID>c30863fc-5be7-412d-a7bc-d7f77e41758f</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1390618320</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1390618320</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250709</DTPOSTED>
+            <DTUSER>20250709</DTUSER>
+            <FITID>8e163ec3-45ab-40f9-a953-320729993544</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-54.39</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250711</DTPOSTED>
+            <DTUSER>20250711</DTUSER>
+            <FITID>8d5373dc-a365-43fd-b33f-9340a27462c1</FITID>
+            <MEMO>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2340665422)</MEMO>
+            <NAME>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2340665422)</NAME>
+            <TRNAMT>-25.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250718</DTPOSTED>
+            <DTUSER>20250718</DTUSER>
+            <FITID>fe1b8342-616e-4024-aed3-1ae8ec7418c2</FITID>
+            <MEMO>Autoroutes du Sud de la France - LF001808230040649906 062025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LF001808230040649906 062025</NAME>
+            <TRNAMT>-18.50</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250719</DTPOSTED>
+            <DTUSER>20250719</DTUSER>
+            <FITID>78068c7e-1098-491f-a21b-75c29e81e7bb</FITID>
+            <MEMO>Shine subscription - July 19th</MEMO>
+            <NAME>Shine subscription - July 19th</NAME>
+            <TRNAMT>-13.20</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250721</DTPOSTED>
+            <DTUSER>20250721</DTUSER>
+            <FITID>9c1098fe-60c7-4193-9c3d-ff1809bfaa0d</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250722</DTPOSTED>
+            <DTUSER>20250722</DTUSER>
+            <FITID>b8ce9dff-041c-4a51-a4e1-437c1011b27a</FITID>
+            <MEMO>SQSP* INV190979263</MEMO>
+            <NAME>SQSP* INV190979263</NAME>
+            <TRNAMT>-36.72</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250723</DTPOSTED>
+            <DTUSER>20250723</DTUSER>
+            <FITID>eadb0709-c1ff-41cf-b176-dadea36076e3</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-44.98</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250801</DTPOSTED>
+            <DTUSER>20250801</DTUSER>
+            <FITID>78f9ea34-fe7b-40da-97ee-6f03c97bf991</FITID>
+            <MEMO>SQSP* INV191652449</MEMO>
+            <NAME>SQSP* INV191652449</NAME>
+            <TRNAMT>-16.80</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250802</DTPOSTED>
+            <DTUSER>20250802</DTUSER>
+            <FITID>a022d657-bc95-4eff-9307-04df702ab33e</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-11.63</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250806</DTPOSTED>
+            <DTUSER>20250806</DTUSER>
+            <FITID>f71eda6a-fdcf-462f-8af3-a17578bbae8e</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1398147347</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1398147347</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250807</DTPOSTED>
+            <DTUSER>20250807</DTUSER>
+            <FITID>faa2515c-d88d-4289-a83a-2155830ea74f</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-48.28</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250811</DTPOSTED>
+            <DTUSER>20250811</DTUSER>
+            <FITID>72a1860f-6bd0-44b9-994b-c45f8183d99b</FITID>
+            <MEMO>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2347872190)</MEMO>
+            <NAME>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2347872190)</NAME>
+            <TRNAMT>-25.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250815</DTPOSTED>
+            <DTUSER>20250815</DTUSER>
+            <FITID>f825a90b-eb33-4f24-a571-6e9f8eab5657</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-69.90</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250818</DTPOSTED>
+            <DTUSER>20250818</DTUSER>
+            <FITID>177869d0-ee19-4b0c-9895-1b17c28a30a2</FITID>
+            <MEMO>GMF ASSURANCES</MEMO>
+            <NAME>GMF ASSURANCES</NAME>
+            <TRNAMT>-1051.16</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250819</DTPOSTED>
+            <DTUSER>20250819</DTUSER>
+            <FITID>c0c3bfdd-0caf-461e-b015-8fe2c03e4f22</FITID>
+            <MEMO>Shine subscription - August 19th</MEMO>
+            <NAME>Shine subscription - August 19th</NAME>
+            <TRNAMT>-13.20</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250820</DTPOSTED>
+            <DTUSER>20250820</DTUSER>
+            <FITID>fa5dff44-4345-4db2-828f-86a1c420b4b6</FITID>
+            <MEMO>Autoroutes du Sud de la France - LG001799480040649906 072025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LG001799480040649906 072025</NAME>
+            <TRNAMT>-31.70</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250821</DTPOSTED>
+            <DTUSER>20250821</DTUSER>
+            <FITID>919e2841-0c74-482e-bd22-6f4187b9fe69</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250827</DTPOSTED>
+            <DTUSER>20250827</DTUSER>
+            <FITID>233cae76-bd13-4921-8697-b63f2ffc9ee9</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-74.80</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250829</DTPOSTED>
+            <DTUSER>20250829</DTUSER>
+            <FITID>070b1b4c-e988-40a3-9250-196eb8898be9</FITID>
+            <MEMO>JOSEPH CAPARROS - Honoraire bilan 2024</MEMO>
+            <NAME>JOSEPH CAPARROS - Honoraire bilan 2024</NAME>
+            <TRNAMT>-720.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250831</DTPOSTED>
+            <DTUSER>20250831</DTUSER>
+            <FITID>ef906ff4-3736-4058-ab9f-7fa6f852d10c</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-61.34</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250902</DTPOSTED>
+            <DTUSER>20250902</DTUSER>
+            <FITID>75fc013f-1464-4932-b7af-cd1ccd6365ec</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-11.65</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250905</DTPOSTED>
+            <DTUSER>20250905</DTUSER>
+            <FITID>a0e988a1-9b02-4a69-9c76-4cf9f3284c26</FITID>
+            <MEMO>UBER   * PENDING</MEMO>
+            <NAME>UBER   * PENDING</NAME>
+            <TRNAMT>-5.28</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250911</DTPOSTED>
+            <DTUSER>20250911</DTUSER>
+            <FITID>0b13a4e9-47ea-4a1f-b01a-ad09c4f30e55</FITID>
+            <MEMO>OVH SAS</MEMO>
+            <NAME>OVH SAS</NAME>
+            <TRNAMT>-16.19</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250911</DTPOSTED>
+            <DTUSER>20250911</DTUSER>
+            <FITID>4fa69210-b63f-455c-8f29-db7e09034232</FITID>
+            <MEMO>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2355091212)</MEMO>
+            <NAME>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2355091212)</NAME>
+            <TRNAMT>-25.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250919</DTPOSTED>
+            <DTUSER>20250919</DTUSER>
+            <FITID>a47df1d0-29b7-41a4-8c49-cf3d430d9014</FITID>
+            <MEMO>Autoroutes du Sud de la France - LH001803170040649906 082025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LH001803170040649906 082025</NAME>
+            <TRNAMT>-39.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250919</DTPOSTED>
+            <DTUSER>20250919</DTUSER>
+            <FITID>6993249d-93f7-4a13-beea-cebb0a4f5361</FITID>
+            <MEMO>Shine subscription - September 19th</MEMO>
+            <NAME>Shine subscription - September 19th</NAME>
+            <TRNAMT>-13.20</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250921</DTPOSTED>
+            <DTUSER>20250921</DTUSER>
+            <FITID>2460674f-6784-4ac1-a49c-b3dcb836e419</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20250927</DTPOSTED>
+            <DTUSER>20250927</DTUSER>
+            <FITID>acc9a2bc-ea5e-4a06-ad43-7ee8e824969e</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-87.60</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251002</DTPOSTED>
+            <DTUSER>20251002</DTUSER>
+            <FITID>6a9df878-4c14-4093-8e16-6e3506cae1ad</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-8.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251002</DTPOSTED>
+            <DTUSER>20251002</DTUSER>
+            <FITID>4fc3eed1-61cd-4692-806a-de83ebcfae9d</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-11.22</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251006</DTPOSTED>
+            <DTUSER>20251006</DTUSER>
+            <FITID>64c16c6f-2dc4-47d8-a435-601fa6e85122</FITID>
+            <MEMO>UBER   *TRIP</MEMO>
+            <NAME>UBER   *TRIP</NAME>
+            <TRNAMT>-24.07</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251006</DTPOSTED>
+            <DTUSER>20251006</DTUSER>
+            <FITID>ece97a17-c754-4c55-9757-4dea35e30e18</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1413255598</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1413255598</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251009</DTPOSTED>
+            <DTUSER>20251009</DTUSER>
+            <FITID>64a77d20-fed3-40b8-8bae-f4ca43215165</FITID>
+            <MEMO>UBER   * PENDING</MEMO>
+            <NAME>UBER   * PENDING</NAME>
+            <TRNAMT>-15.02</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251009</DTPOSTED>
+            <DTUSER>20251009</DTUSER>
+            <FITID>f0d7b5fb-8f02-4d05-90bc-015611f8fe9f</FITID>
+            <MEMO>UBER   * PENDING</MEMO>
+            <NAME>UBER   * PENDING</NAME>
+            <TRNAMT>-9.32</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251019</DTPOSTED>
+            <DTUSER>20251019</DTUSER>
+            <FITID>ff79c05f-4918-421c-876e-939e6549266a</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-72.45</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251019</DTPOSTED>
+            <DTUSER>20251019</DTUSER>
+            <FITID>53c583e9-fbfd-404e-bebb-7dcba03dcd15</FITID>
+            <MEMO>Shine subscription - October 19th</MEMO>
+            <NAME>Shine subscription - October 19th</NAME>
+            <TRNAMT>-13.20</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251020</DTPOSTED>
+            <DTUSER>20251020</DTUSER>
+            <FITID>0fc2d0e5-17cd-41de-b190-a7326c1ab6f0</FITID>
+            <MEMO>Autoroutes du Sud de la France - LI001765590040649906 092025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LI001765590040649906 092025</NAME>
+            <TRNAMT>-31.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251021</DTPOSTED>
+            <DTUSER>20251021</DTUSER>
+            <FITID>0c6e6556-7634-45ae-ad24-0502ac892475</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251102</DTPOSTED>
+            <DTUSER>20251102</DTUSER>
+            <FITID>98488317-fa3b-4e9e-b16e-5775889d22a3</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-11.59</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251106</DTPOSTED>
+            <DTUSER>20251106</DTUSER>
+            <FITID>df96a581-50cc-428b-8e90-b813a1c73d3c</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1420839389</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1420839389</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251110</DTPOSTED>
+            <DTUSER>20251110</DTUSER>
+            <FITID>c276ec36-f0d1-4c8d-b363-cb1eb2b079bc</FITID>
+            <MEMO>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2369602358)</MEMO>
+            <NAME>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2369602358)</NAME>
+            <TRNAMT>-76.63</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251112</DTPOSTED>
+            <DTUSER>20251112</DTUSER>
+            <FITID>ba7b81f0-e835-4e69-b765-8514d4c57d9b</FITID>
+            <MEMO>AUTOSUD</MEMO>
+            <NAME>AUTOSUD</NAME>
+            <TRNAMT>-646.30</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251112</DTPOSTED>
+            <DTUSER>20251112</DTUSER>
+            <FITID>e651fc21-34f3-40f3-bcd5-65314393d6ea</FITID>
+            <MEMO>AUCHAN DAC</MEMO>
+            <NAME>AUCHAN DAC</NAME>
+            <TRNAMT>-19.50</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251116</DTPOSTED>
+            <DTUSER>20251116</DTUSER>
+            <FITID>95b602da-fa1d-4535-bf07-a8129d8167b6</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-72.54</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251117</DTPOSTED>
+            <DTUSER>20251117</DTUSER>
+            <FITID>ea1fcc36-3c5b-4dc7-8983-92c103aeeed4</FITID>
+            <MEMO>SQSP* DOMAIN#209623947</MEMO>
+            <NAME>SQSP* DOMAIN#209623947</NAME>
+            <TRNAMT>-15.12</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251119</DTPOSTED>
+            <DTUSER>20251119</DTUSER>
+            <FITID>4f638a5e-edb8-477b-9c89-9988d2ad3c4a</FITID>
+            <MEMO>Shine subscription - November 19th</MEMO>
+            <NAME>Shine subscription - November 19th</NAME>
+            <TRNAMT>-13.20</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251121</DTPOSTED>
+            <DTUSER>20251121</DTUSER>
+            <FITID>4659ae22-cc84-43ef-b55b-7ea0ea911a5a</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251121</DTPOSTED>
+            <DTUSER>20251121</DTUSER>
+            <FITID>48119057-35ca-4c9e-9ce6-e13044fed816</FITID>
+            <MEMO>SQSP* DOMAIN#210200399</MEMO>
+            <NAME>SQSP* DOMAIN#210200399</NAME>
+            <TRNAMT>-12.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251202</DTPOSTED>
+            <DTUSER>20251202</DTUSER>
+            <FITID>c8544626-9ca3-4426-a707-e54f7581599e</FITID>
+            <MEMO>AWS EMEA</MEMO>
+            <NAME>AWS EMEA</NAME>
+            <TRNAMT>-11.45</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251205</DTPOSTED>
+            <DTUSER>20251205</DTUSER>
+            <FITID>1f87a46a-2c81-4afd-a48f-a067536fe3bb</FITID>
+            <MEMO>Free Telecom - Free HautDebit 1428402208</MEMO>
+            <NAME>Free Telecom - Free HautDebit 1428402208</NAME>
+            <TRNAMT>-37.97</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251211</DTPOSTED>
+            <DTUSER>20251211</DTUSER>
+            <FITID>9c80590e-f97d-46a4-ac49-bfb63e0e258a</FITID>
+            <MEMO>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2376865340)</MEMO>
+            <NAME>ORANGE SA-ORANGE - Votre abonnement mobile: 06XXXXX795 (facture: 2376865340)</NAME>
+            <TRNAMT>-25.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251215</DTPOSTED>
+            <DTUSER>20251215</DTUSER>
+            <FITID>fce89284-505d-4e7f-82fd-5a5aaa4d49b2</FITID>
+            <MEMO>URSSAF PACA - UR 937000002002661353          794487231000111225</MEMO>
+            <NAME>URSSAF PACA - UR 937000002002661353          794487231000111225</NAME>
+            <TRNAMT>-339.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251216</DTPOSTED>
+            <DTUSER>20251216</DTUSER>
+            <FITID>09e531e3-aaec-4a73-8544-36c17aaba543</FITID>
+            <MEMO>DIRECTION GENERALE DES FINANCES PUBLIQUES - 600228099718TLR2513050053587 TLRSEPA DGFIP IMPOT CFE</MEMO>
+            <NAME>DIRECTION GENERALE DES FINANCES PUBLIQUES - 600228099718TLR2513050053587 TLRSEPA DGFIP IMPOT CFE</NAME>
+            <TRNAMT>-757.00</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251217</DTPOSTED>
+            <DTUSER>20251217</DTUSER>
+            <FITID>6292cf2e-c2f9-4060-a9fb-188d0fdf67eb</FITID>
+            <MEMO>CERTAS ESSOF039</MEMO>
+            <NAME>CERTAS ESSOF039</NAME>
+            <TRNAMT>-59.92</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251219</DTPOSTED>
+            <DTUSER>20251219</DTUSER>
+            <FITID>4e51a90a-f3cb-4bc3-882d-b7a8882e3c48</FITID>
+            <MEMO>Autoroutes du Sud de la France - LK001715900040649906 112025</MEMO>
+            <NAME>Autoroutes du Sud de la France - LK001715900040649906 112025</NAME>
+            <TRNAMT>-69.60</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251219</DTPOSTED>
+            <DTUSER>20251219</DTUSER>
+            <FITID>74991392-5558-4e66-84da-3bd531b04a9e</FITID>
+            <MEMO>Shine subscription - December 19th</MEMO>
+            <NAME>Shine subscription - December 19th</NAME>
+            <TRNAMT>-13.20</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251221</DTPOSTED>
+            <DTUSER>20251221</DTUSER>
+            <FITID>a86ea851-b861-4217-ada7-4fa7fea2e1b4</FITID>
+            <MEMO>APPLE.COM/BILL</MEMO>
+            <NAME>APPLE.COM/BILL</NAME>
+            <TRNAMT>-2.99</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+          <STMTTRN>
+            <CURRENCY>EUR</CURRENCY>
+            <DTPOSTED>20251222</DTPOSTED>
+            <DTUSER>20251222</DTUSER>
+            <FITID>350ecf03-21f6-45de-9054-700eab28c683</FITID>
+            <MEMO>AEROPORT MARSEIL</MEMO>
+            <NAME>AEROPORT MARSEIL</NAME>
+            <TRNAMT>-77.90</TRNAMT>
+            <TRNTYPE>DEBIT</TRNTYPE>
+          </STMTTRN>
+        </BANKTRANLIST>
+        <CURDEF>EUR</CURDEF>
+        <LEDGERBAL>
+          <BALAMT>10327.91</BALAMT>
+          <DTASOF>20251222051747</DTASOF>
+        </LEDGERBAL>
+      </STMTRS>
+      <TRNUID>1</TRNUID>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
