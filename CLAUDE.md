@@ -21,6 +21,13 @@ This is an accounting document repository for **EURL EUSSAM DEVELOPPEMENTS** (a 
 - **CSV columns**: Transaction ID, Date valeur, Date opération, IBAN, Type transaction, Transaction personnelle, Category, Débit, Crédit, Solde mouvement, Solde bancaire, Libellé, Nom contrepartie, Montant HT, TVA totale, TVA 20%, TVA 10%, TVA 8.5%, TVA 5.5%, TVA 2.1%, TVA personnalisée, Pièces, Date ajout pièces, Commentaire
 - **Bilan PDF**: Image-based (Print To PDF), requires `poppler` (`brew install poppler`) + `pdftoppm` conversion to PNG for reading
 
+## Contexte business
+
+Le gérant est également salarié en parallèle. Les exercices 2024 et 2025 correspondent à une **pause d'activité** sur l'EURL : l'activité salariée n'a pas permis de trouver des clients à côté. Cela explique :
+- La chute du CA (53 150 € en 2023 → 5 000 € en 2024)
+- Le maintien des charges courantes (abonnements, outils, déplacements) pour garder l'EURL opérationnelle
+- La perte comptable de -14 684 € en 2024, absorbée par les réserves accumulées
+
 ## Working with this repo
 
 - All interactions should default to French language when explaining accounting concepts to the user

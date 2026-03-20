@@ -212,4 +212,30 @@ Avec 8 298 € de crédit de TVA, il est possible de demander un remboursement �
 
 ---
 
+## 6. Découvertes issues du rapprochement Shine / Bilan
+
+Le rapprochement détaillé entre l'export Shine et le bilan (voir [ANNEXE-RAPPROCHEMENT-SHINE-BILAN-2024.md](ANNEXE-RAPPROCHEMENT-SHINE-BILAN-2024.md)) a mis en lumière plusieurs points importants :
+
+### 6.1 Facture client de 5 000 € HT introuvable
+Le CA de 5 000 € (p.3 — « Production ventes services ») et la créance de 6 000 € TTC (p.1 — « Clients et comptes rattachés ») ne correspondent à aucune facture ni aucun encaissement dans les exports Shine 2024 et 2025. **À clarifier avec le comptable.**
+
+### 6.2 Paiement TVA erroné de 5 185 € (juillet 2024)
+Un prélèvement DGFiP de 5 185 € a été débité par erreur le 25/07/2024. Le commentaire Shine indique « TVA juillet 2024 - erreur - engager remboursement ». Ce montant est inclus dans la créance TVA de 8 298 € au bilan (p.1 — « État, taxes sur le CA »). Le remboursement intégral a été reçu le 23/04/2025.
+
+### 6.3 Écarts entre montants Shine et montants au bilan
+Le comptable ajuste les montants par rapport aux débits bancaires bruts :
+
+| Poste (p.3) | Total Shine | Montant bilan | Écart | Explication principale |
+|-------------|------------:|-------------:|------:|----------------------|
+| Autres achats et charges externes | ~10 900 € HT | 14 096 € | +3 196 € | Frais bureau (4 204 €) + loyer parking (2 400 €) ajoutés, certaines dépenses reclassées en immobilisations |
+| Charges sociales | 1 497 € | 3 605 € | +2 108 € | Provisions pour cotisations dues mais pas encore prélevées (dont URSSAF 4T 2024 : 938 € payé en fév. 2025) |
+| Impôts, taxes et versements | 1 125 € | 1 670 € | +545 € | Taxes provisionnées non encore payées |
+
+### 6.4 Reclassements en immobilisations
+Certains achats courants dans Shine ont probablement été immobilisés par le comptable (p.1 — « Autres immobilisations corporelles ») plutôt que passés en charges : Flexispot (700 € HT), Apple matériel (233 € HT), travaux bureau Rabah Bara (2 280 € HT). **À confirmer avec le comptable.**
+
+> L'ensemble des points à clarifier est regroupé dans [POINTS-A-ECLAIRCIR.md](POINTS-A-ECLAIRCIR.md).
+
+---
+
 *Rapport généré le 19/03/2026 à partir du bilan comptable (Joseph Caparros) et de l'export Shine du 01/01/2024 au 31/12/2024.*
